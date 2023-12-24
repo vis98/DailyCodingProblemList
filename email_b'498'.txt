@@ -1,0 +1,42 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Facebook.
+
+On a mysterious island there are creatures known as Quxes which come in three
+colors: red, green, and blue. One power of the Qux is that if two of them are
+standing next to each other, they can transform into a single creature of the
+third color.
+
+Given N Quxes standing in a line, determine the smallest number of them
+remaining after any possible sequence of such transformations.
+
+For example, given the input ['R', 'G', 'B', 'G', 'B'], it is possible to end up
+with a single Qux through the following steps:
+
+        Arrangement       |   Change
+----------------------------------------
+['R', 'G', 'B', 'G', 'B'] | (R, G) -> B
+['B', 'B', 'G', 'B']      | (B, G) -> R
+['B', 'R', 'B']           | (R, B) -> G
+['B', 'G']                | (B, G) -> R
+['R']                     |
+
+
+
+--------------------------------------------------------------------------------
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem, including this one. Since you were
+referred by one of our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

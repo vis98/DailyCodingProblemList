@@ -1,0 +1,74 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Google.
+
+Suppose we represent our file system by a string in the following manner:
+
+The string "dir\n\tsubdir1\n\tsubdir2\n\t\tfile.ext" represents:
+
+dir
+    subdir1
+    subdir2
+        file.ext
+
+
+The directory dir contains an empty sub-directory subdir1 and a sub-directory 
+subdir2 containing a file file.ext.
+
+The string 
+"dir\n\tsubdir1\n\t\tfile1.ext\n\t\tsubsubdir1\n\tsubdir2\n\t\tsubsubdir2\n\t\t\tfile2.ext" 
+represents:
+
+dir
+    subdir1
+        file1.ext
+        subsubdir1
+    subdir2
+        subsubdir2
+            file2.ext
+
+
+The directory dir contains two sub-directories subdir1 and subdir2. subdir1 
+contains a file file1.extand an empty second-level sub-directory subsubdir1. 
+subdir2 contains a second-level sub-directorysubsubdir2 containing a file 
+file2.ext.
+
+We are interested in finding the longest (number of characters) absolute path to
+a file within our file system. For example, in the second example above, the
+longest absolute path is "dir/subdir2/subsubdir2/file2.ext", and its length is
+32 (not including the double quotes).
+
+Given a string representing the file system in the above format, return the
+length of the longest absolute path to a file in the abstracted file system. If
+there is no file in the system, return 0.
+
+Note:
+
+The name of a file contains at least a period and an extension.
+
+The name of a directory or sub-directory will not contain a period.
+
+
+--------------------------------------------------------------------------------
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem, including this one. Since you were
+referred by one of our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+Master algorithms together on Binary Search [https://binarysearch.io/?ref=dcp].
+Create a room, invite your friends, and race to finish the problem!
+
+
+--------------------------------------------------------------------------------
+
+No more? Snooze or unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

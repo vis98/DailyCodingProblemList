@@ -1,0 +1,70 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Google.
+
+In a directed graph, each node is assigned an uppercase letter. We define a
+path's value as the number of most frequently-occurring letter along that path.
+For example, if a path in the graph goes through "ABACA", the value of the path
+is 3, since there are 3 occurrences of 'A' on the path.
+
+Given a graph with n nodes and m directed edges, return the largest value path
+of the graph. If the largest value is infinite, then return null.
+
+The graph is represented with a string and an edge list. The i-th character
+represents the uppercase letter of the i-th node. Each tuple in the edge list 
+(i, j) means there is a directed edge from the i-th node to the j-th node.
+Self-edges are possible, as well as multi-edges.
+
+For example, the following input graph:
+
+ABACA
+
+
+[(0, 1),
+ (0, 2),
+ (2, 3),
+ (3, 4)]
+
+
+Would have maximum value 3 using the path of vertices [0, 2, 3, 4], (A, A, C, A)
+.
+
+The following input graph:
+
+A
+
+
+[(0, 0)]
+
+
+Should return null, since we have an infinite loop.
+
+
+--------------------------------------------------------------------------------
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem, including this one. Since you were
+referred by one of our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+Practice makes perfect. Book a mock interview with a FAANG-level interviewer
+[https://www.tryexponent.com/coaching?ref=DCP&promo_code=DCPCOACH] today from
+our friends at Exponent (10% off!).
+
+System design interviews are becoming more popular in SWE interviews. Here's how
+to prepare.
+[https://www.tryexponent.com/courses/system-design-interview?ref=DCP&promo_code=DCP]
+
+
+--------------------------------------------------------------------------------
+
+No more? Snooze or unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

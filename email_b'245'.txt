@@ -1,0 +1,32 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Google.
+
+Given the sequence of keys visited by a postorder traversal of a binary search
+tree, reconstruct the tree.
+
+For example, given the sequence 2, 4, 3, 8, 7, 5, you should construct the
+following tree:
+
+    5
+   / \
+  3   7
+ / \   \
+2   4   8
+
+
+Upgrade to premium
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2Bz6QcOxyCKetP6lYnXnpQimd4DRAN67bhWvrhW-2FuvSGAy09wyKpHDWd4WNOFKoO4Jc21UvlLyifNz1SjDpuvSr6RKofllcM59RJT5f9ekm0Q-3D-3D_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eq9bTJ85-2BLlEPSemjQ-2FIQAUXKlKzouh8qB-2FjatakCiHw7wYyG-2BVHzQE05QCKmLILYgGTDZYIsDBy-2FFmRRQTI2mmpgf5Ns7Wb-2BZtFEpP4DKTpeClvDbreoiBvfy2JeT5uzNTCA7ErVPCAcoOEr-2FWJniqSAgFIOI7ee4mmXGU1nATDPf7fVQD9W0bJtZjWbbLZGE-3D] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2BIpaIl6O7R00We7pC2-2FYno_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eq9bTJ85-2BLlEPSemjQ-2FIQAUXKlKzouh8qB-2FjatakCiHw75fJz-2FvFTdBI6dcKsFFrIoQIpsdms3uQfPtTB2j-2FqLiu-2FGYyo-2B1bGNHVZwZD7uJHZxbJNmnvwv5vcxwzgSLGdFE8h61FNrN52BiI-2Bscm2BJJqn8fWnlbceYYgL8PdYuN14LyZDMPvGAX9m5wtlQCZU-3D]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwTq4x5HkPwxRhpDWfk1b7nXvgvDhSC78LLls-2Bvqs1KQvHGZzlxUHjTKmlyywaw1SP-2FbueXCHXzM5OgFhexF2xFMxiLAhRSPm6GJrS8e0PCKvxlSV-2BsznEOpRZjGZGPEZiTDcWDY9r6SnPagR0vbAIgq6A7HSTXZvcyPUNcmK8BON_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eq9bTJ85-2BLlEPSemjQ-2FIQAUXKlKzouh8qB-2FjatakCiHw7OzmIausyQvxvv3-2FqxDcfvp6I0APB2jM0fdElwdq4mMrir6EcQPxkaHMDihAhIli3VYwgNZRVxiRjvTIuCMdGhaPHe6s80vcn0bkQyon76e7Oxpedwv937Ubafc-2FRc9Y0Cz-2B6OuDdXoUNQmNUc08mA-3D]
+.

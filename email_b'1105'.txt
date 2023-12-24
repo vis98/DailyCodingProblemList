@@ -1,0 +1,40 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Atlassian.
+
+MegaCorp wants to give bonuses to its employees based on how many lines of codes
+they have written. They would like to give the smallest positive amount to each
+worker consistent with the constraint that if a developer has written more lines
+of code than their neighbor, they should receive more money.
+
+Given an array representing a line of seats of employees at MegaCorp, determine
+how much each one should get paid.
+
+For example, given [10, 40, 200, 1000, 60, 30], you should return [1, 2, 3, 4,
+2, 1].
+
+
+--------------------------------------------------------------------------------
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem, including this one. Since you were
+referred by one of our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+Interested in Data Science or Product Management? Check out our other
+newsletters, Data Science Prep [https://datascienceprep.com/?ref=dcp] and Daily
+Product Prep [https://dailyproductprep.com/]!
+
+
+--------------------------------------------------------------------------------
+
+No more? Snooze or unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

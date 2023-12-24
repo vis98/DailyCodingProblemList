@@ -1,0 +1,43 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Flipkart.
+
+Snakes and Ladders [https://en.wikipedia.org/wiki/Snakes_and_Ladders] is a game
+played on a 10 x 10 board, the goal of which is get from square 1 to square 100.
+On each turn players will roll a six-sided die and move forward a number of
+spaces equal to the result. If they land on a square that represents a snake or
+ladder, they will be transported ahead or behind, respectively, to a new square.
+
+Find the smallest number of turns it takes to play snakes and ladders.
+
+For convenience, here are the squares representing snakes and ladders, and their
+outcomes:
+
+snakes = {16: 6, 48: 26, 49: 11, 56: 53, 62: 19, 64: 60, 87: 24, 93: 73, 95: 75, 98: 78}
+ladders = {1: 38, 4: 14, 9: 31, 21: 42, 28: 84, 36: 44, 51: 67, 71: 91, 80: 100}
+
+
+
+--------------------------------------------------------------------------------
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem, including this one. Since you were
+referred by one of our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+Master algorithms together on Binary Search [https://binarysearch.io/?ref=dcp].
+Create a room, invite your friends, and race to finish the problem!
+
+
+--------------------------------------------------------------------------------
+
+No more? Snooze or unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

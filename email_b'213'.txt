@@ -1,0 +1,39 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Slack.
+
+You are given an N by M matrix of 0s and 1s. Starting from the top left corner,
+how many ways are there to reach the bottom right corner?
+
+You can only move right and down. 0 represents an empty space while 1 represents
+a wall you cannot walk through.
+
+For example, given the following matrix:
+
+[[0, 0, 1],
+ [0, 0, 1],
+ [1, 0, 0]]
+
+
+Return two, as there are only two ways to get to the bottom right:
+
+ * Right, down, down, right
+ * Down, right, down, right
+
+The top left corner and bottom right corner will always be 0.
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

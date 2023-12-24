@@ -1,0 +1,35 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Walmart Labs.
+
+There are M people sitting in a row of N seats, where M < N. Your task is to
+redistribute people such that there are no gaps between any of them, while
+keeping overall movement to a minimum.
+
+For example, suppose you are faced with an input of [0, 1, 1, 0, 1, 0, 0, 0, 1],
+where 0 represents an empty seat and 1 represents a person. In this case, one
+solution would be to place the person on the right in the fourth seat. We can
+consider the cost of a solution to be the sum of the absolute distance each
+person must move, so that the cost here would be five.
+
+Given an input such as the one above, return the lowest possible cost of moving
+people to remove all gaps.
+
+
+--------------------------------------------------------------------------------
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem, including this one. Since you were
+referred by one of our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

@@ -1,0 +1,42 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Google.
+
+You are given a starting state start, a list of transition probabilities for a
+Markov chain, and a number of steps num_steps. Run the Markov chain starting
+from start for num_steps and compute the number of times we visited each state.
+
+For example, given the starting state a, number of steps 5000, and the following
+transition probabilities:
+
+[
+  ('a', 'a', 0.9),
+  ('a', 'b', 0.075),
+  ('a', 'c', 0.025),
+  ('b', 'a', 0.15),
+  ('b', 'b', 0.8),
+  ('b', 'c', 0.05),
+  ('c', 'a', 0.25),
+  ('c', 'b', 0.25),
+  ('c', 'c', 0.5)
+]
+
+
+One instance of running this Markov chain might produce { 'a': 3012, 'b': 1656,
+'c': 332 }.
+
+Upgrade to premium
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2Bz6QcOxyCKetP6lYnXnpQimd4DRAN67bhWvrhW-2FuvSGAy09wyKpHDWd4WNOFKoO4Jc21UvlLyifNz1SjDpuvSr6RKofllcM59RJT5f9ekm0Q-3D-3D_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eq4T8-2Bw5H-2Fq1B3kOzfsikEksvTyABfZL-2BoIwRAJqcSusPyZp4i-2F5YfWW6P4MANP-2F7B0TPlfUMzT9-2FCBW3zDptrwjGP1WyCfhkixF3w6pVIYJjgRGpU06duK0VmvSbqcQyTxZRZ86twWiyM0dtS-2FfESh1DfTXMRzjxp5Fc5WH1DAW9Fo9ItWyY1bHAdY4qizLX0-3D] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2BIpaIl6O7R00We7pC2-2FYno_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eq4T8-2Bw5H-2Fq1B3kOzfsikEksvTyABfZL-2BoIwRAJqcSusFiqLQl7JJe5FSi3xqYWriorn53LfScxUde-2F84x9Ma-2FG82RaFgOx5-2Bpfu6zf6dKFDGxhVslQzCJaYOxHovJDMMVS2HWNOXHA9u1II1T3Ep7v9WuFQJ1Em4XOdkMzURC4U8Xsh-2BUyeayYUq1IUftKXHU-3D]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwTq4x5HkPwxRhpDWfk1b7nXvgvDhSC78LLls-2Bvqs1KQvHGZzlxUHjTKmlyywaw1SP-2FbueXCHXzM5OgFhexF2xFMxiLAhRSPm6GJrS8e0PCKvxlSV-2BsznEOpRZjGZGPEZiTDcWDY9r6SnPagR0vbAIgq6A7HSTXZvcyPUNcmK8BON_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eq4T8-2Bw5H-2Fq1B3kOzfsikEksvTyABfZL-2BoIwRAJqcSusFkoPIXtu4AEMyAPrj1qGdEbZegJUCJwVbmzV9-2F7TPM8Tjk-2BzOggtcPiPP1pyoFXKSHd9uGBdXUO5q562fBkyxtWApPw8nf0AdtVjS6sydKqH94CVbbMA74OSs6vLsMP-2BZci1TLKE661AI-2Bi8Opv4jM-3D]
+.

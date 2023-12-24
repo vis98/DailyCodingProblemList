@@ -1,0 +1,48 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Samsung.
+
+A group of houses is connected to the main water plant by means of a set of
+pipes. A house can either be connected by a set of pipes extending directly to
+the plant, or indirectly by a pipe to a nearby house which is otherwise
+connected.
+
+For example, here is a possible configuration, where A, B, and C are houses, and
+arrows represent pipes:
+
+A <--> B <--> C <--> plant
+
+
+Each pipe has an associated cost, which the utility company would like to
+minimize. Given an undirected graph of pipe connections, return the lowest cost
+configuration of pipes such that each house has access to water. 
+
+In the following setup, for example, we can remove all but the pipes from plant 
+to A, plant to B, and B to C, for a total cost of 16. 
+
+pipes = {
+    'plant': {'A': 1, 'B': 5, 'C': 20},
+    'A': {'C': 15},
+    'B': {'C': 10},
+    'C': {}
+}
+
+
+
+--------------------------------------------------------------------------------
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem, including this one. Since you were
+referred by one of our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

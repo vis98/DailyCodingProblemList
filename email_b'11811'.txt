@@ -1,0 +1,49 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Two Sigma.
+
+Ghost is a two-person word game where players alternate appending letters to a
+word. The first person who spells out a word, or creates a prefix for which
+there is no possible continuation, loses. Here is a sample game:
+
+ * Player 1: g
+ * Player 2: h
+ * Player 1: o
+ * Player 2: s
+ * Player 1: t [loses]
+
+Given a dictionary of words, determine the letters the first player should start
+with, such that with optimal play they cannot lose.
+
+For example, if the dictionary is ["cat", "calf", "dog", "bear"], the only
+winning start letter would be b.
+
+
+--------------------------------------------------------------------------------
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem, including this one. Since you were
+referred by one of our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+Practice makes perfect. Book a mock interview with a FAANG-level interviewer
+[https://www.tryexponent.com/coaching?ref=DCP&promo_code=DCPCOACH] today from
+our friends at Exponent (10% off!).
+
+System design interviews are becoming more popular in SWE interviews. Here's how
+to prepare.
+[https://www.tryexponent.com/courses/system-design-interview?ref=DCP&promo_code=DCP]
+
+
+--------------------------------------------------------------------------------
+
+No more? Snooze or unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

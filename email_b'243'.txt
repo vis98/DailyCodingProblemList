@@ -1,0 +1,28 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Airbnb.
+
+Given a linked list and a positive integer k, rotate the list to the right by k 
+places.
+
+For example, given the linked list 7 -> 7 -> 3 -> 5 and k = 2, it should become 
+3 -> 5 -> 7 -> 7.
+
+Given the linked list 1 -> 2 -> 3 -> 4 -> 5 and k = 3, it should become 3 -> 4
+-> 5 -> 1 -> 2.
+
+Upgrade to premium
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2Bz6QcOxyCKetP6lYnXnpQimd4DRAN67bhWvrhW-2FuvSGAy09wyKpHDWd4WNOFKoO4Jc21UvlLyifNz1SjDpuvSr6RKofllcM59RJT5f9ekm0Q-3D-3D_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eqMHxDUFaAcbgEC33eNo5le8-2BTU7WFSrc48kZkMnZXiAfQAMquD-2FFyM3tps3UUXIGx-2BijMAWXrclIsuO0iGP6kIJ7wa-2BW00LxBPE-2FGic6Hbp-2BGuKYQ0vU9SqpQ6r-2F-2FaQIlI-2BgH0maCIDABxPf9DfxLrWP5EUiCqUWXaFl09-2Bbb3wlQpGG4Wf4xHJRfOXM-2BE-2F9E-3D] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2BIpaIl6O7R00We7pC2-2FYno_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eqMHxDUFaAcbgEC33eNo5le8-2BTU7WFSrc48kZkMnZXiAbwBpUzLwQmJ-2BHBuGfGwfbUr7C-2BhmLMBiPfbUaDpZz2SzA3JSyOZCYsdhPHpzIzsK08rMFWjYngN2Cfpxt66a4-2BoKkOHQOEvUrdn7LGldCD3Wha8GPghcmPt2E1Y0BQ6c3LyWL9YLTY0Ya8xrDG4iL4-3D]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwTq4x5HkPwxRhpDWfk1b7nXvgvDhSC78LLls-2Bvqs1KQvHGZzlxUHjTKmlyywaw1SP-2FbueXCHXzM5OgFhexF2xFMxiLAhRSPm6GJrS8e0PCKvxlSV-2BsznEOpRZjGZGPEZiTDcWDY9r6SnPagR0vbAIgq6A7HSTXZvcyPUNcmK8BON_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eqMHxDUFaAcbgEC33eNo5le8-2BTU7WFSrc48kZkMnZXiARC0VK0VVZ-2F6oQqWthqkAyBHY7mdqhukLCzo-2FpJN4nnmNJASdj4wXUQYk-2Fa-2FpJ1yT5TNZzRi2p4eA4SpKVPiHrRuOe0Lsqkq61a-2FBSvjua93BL-2FVStLosEidUEYa-2FrlOPE6ajgmKGh4-2F6lP8CEdc75U-3D]
+.

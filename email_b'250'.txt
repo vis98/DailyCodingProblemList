@@ -1,0 +1,26 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Facebook.
+
+A graph is minimally-connected if it is connected and there is no edge that can
+be removed while still leaving the graph connected. For example, any binary tree
+is minimally-connected.
+
+Given an undirected graph, check if the graph is minimally-connected. You can
+choose to represent the graph as either an adjacency matrix or adjacency list.
+
+Upgrade to premium
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2Bz6QcOxyCKetP6lYnXnpQimd4DRAN67bhWvrhW-2FuvSGAy09wyKpHDWd4WNOFKoO4Jc21UvlLyifNz1SjDpuvSr6RKofllcM59RJT5f9ekm0Q-3D-3D_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eoUGrwUOmAyjZNRcnNdL4-2FyNHb1Gh2sHyNIOqYq9FS059fpmYRcl6BJ0B8HhGdKMvZgJIKrtRpNXz5mTQ4n8zQctNljVwnJEmay6ab8LsnLNuIeJSkqP-2BsZgyLxpnqZNNCGr5ff0idAEd-2BuKAxP-2B5eg0CJs6cPtAAWp-2FsgWiL-2Bcb0UyCT-2FTF5fbicrKhqaAe5Q-3D] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2BIpaIl6O7R00We7pC2-2FYno_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eoUGrwUOmAyjZNRcnNdL4-2FyNHb1Gh2sHyNIOqYq9FS0514-2Brz5uFramZl-2BNRaODK5glvODwAoXRa8jpDhi-2Fuw-2F867BFYI0kZZO5B6heRvGxheXwS2kmriRghRKGKrmVy-2B5xzGU424IAJ3Qs-2BsG9mFCRj7Qt-2BzsWcu8M2ikXb2wo0OtVo1WVArJ6zyXqjUL8LEA-3D]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwTq4x5HkPwxRhpDWfk1b7nXvgvDhSC78LLls-2Bvqs1KQvHGZzlxUHjTKmlyywaw1SP-2FbueXCHXzM5OgFhexF2xFMxiLAhRSPm6GJrS8e0PCKvxlSV-2BsznEOpRZjGZGPEZiTDcWDY9r6SnPagR0vbAIgq6A7HSTXZvcyPUNcmK8BON_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eoUGrwUOmAyjZNRcnNdL4-2FyNHb1Gh2sHyNIOqYq9FS05-2BgI7kYjeGtHS5BILbPUpyKONOcxg1ycuvx7DV9XouNIHZ-2Bj1bpD-2F554tZF1eZrwMpamSNfg0aV0P4zVaCswn1iNRkcsS62ir9e56d7dWsPsIwXIoaC2rCwFq8cwUzYmJVw3oBlrN3AbY3-2Ft46-2Bwntg-3D]
+.

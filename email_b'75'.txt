@@ -1,0 +1,29 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Google.
+
+Implement an LRU (Least Recently Used) cache. It should be able to be
+initialized with a cache size n, and contain the following methods:
+
+ * set(key, value): sets key to value. If there are already n items in the cache
+   and we are adding a new item, then it should also remove the least recently
+   used item.
+ * get(key): gets the value at key. If no such key exists, return null.
+
+Each operation should run in O(1) time.
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

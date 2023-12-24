@@ -1,0 +1,30 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Google.
+
+Given a stack of N elements, interleave the first half of the stack with the
+second half reversed using only one other queue. This should be done in-place.
+
+Recall that you can only push or pop from a stack, and enqueue or dequeue from a
+queue.
+
+For example, if the stack is [1, 2, 3, 4, 5], it should become [1, 5, 2, 4, 3].
+If the stack is [1, 2, 3, 4], it should become [1, 4, 2, 3].
+
+Hint: Try working backwards from the end state.
+
+Upgrade to premium
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2Bz6QcOxyCKetP6lYnXnpQimd4DRAN67bhWvrhW-2FuvSGAy09wyKpHDWd4WNOFKoO4Jc21UvlLyifNz1SjDpuvSr6RKofllcM59RJT5f9ekm0Q-3D-3D_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eonrl26ZNVzEtHqkunQWFz-2F-2BYkx1pyIiii0SP1iFd-2B5P50SwcXs8SQjtxTYix3Wc3DR8RHdCKCb-2Fr9xW657yuezU2EJHhglEHiMtXDs0XLtLuvlH5GsMrxp8gIMDOo-2BephUkeON1WzNN8MMT8aqyK3s1rMSmxDwpVgI6CC-2FOyo8dfnMQ-2BS8hIF5uC5NJPohEr0-3D] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2BIpaIl6O7R00We7pC2-2FYno_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eonrl26ZNVzEtHqkunQWFz-2F-2BYkx1pyIiii0SP1iFd-2B5P4LkjG3vGyEn10WjHd9rD9A7UdGVjZNBBUQictm-2BLx-2F85QtYVZYizIj7sCdIh3OKPG-2BfEg682LQqiUGpDKD4v-2BNRqWOEBw4pMqDNtxZtYrWAna32NpycGvb3ik27f5303sLc20Q91u781ZaSZF4iBx0-3D]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwTq4x5HkPwxRhpDWfk1b7nXvgvDhSC78LLls-2Bvqs1KQvHGZzlxUHjTKmlyywaw1SP-2FbueXCHXzM5OgFhexF2xFMxiLAhRSPm6GJrS8e0PCKvxlSV-2BsznEOpRZjGZGPEZiTDcWDY9r6SnPagR0vbAIgq6A7HSTXZvcyPUNcmK8BON_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eonrl26ZNVzEtHqkunQWFz-2F-2BYkx1pyIiii0SP1iFd-2B5P1UbRST3sYnjED19bhB6npCTgS-2FmC00ZIKaOgpoU2-2BKm1vzogcjsIepVL-2BkZ-2BUD4333Qc8oWRxKu4VteSK3MSRDjNdic59g8ZMRJ3VCWIUlvScrJ08OQK5CD8JH0682i8JPZt9s2Tj0ibLpKRMlwUAU-3D]
+.

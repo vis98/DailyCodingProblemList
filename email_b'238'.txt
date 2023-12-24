@@ -1,0 +1,25 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Microsoft.
+
+Describe and give an example of each of the following types of polymorphism:
+
+ * Ad-hoc polymorphism
+ * Parametric polymorphism
+ * Subtype polymorphism
+
+Upgrade to premium
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2Bz6QcOxyCKetP6lYnXnpQimd4DRAN67bhWvrhW-2FuvSGAy09wyKpHDWd4WNOFKoO4Jc21UvlLyifNz1SjDpuvSr6RKofllcM59RJT5f9ekm0Q-3D-3D_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eob5ModMXauCSwm7Y735RQqR7IpsKnvrkksbqvD39FUavjheTCA5WEBNFun-2FPYhc1L1DbKCZ67DX1WgRvHX4tMPnRK4kr8yuacAmPVYr50w4eHcM0uOhC1i83j-2FlT5Y7HcMpweXqyIfJXNJ-2FT5kAuR7hSaJRH1hmQfGwSYd0e7kUJmG2axOIawgst9zLRLlOnI-3D] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2BIpaIl6O7R00We7pC2-2FYno_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eob5ModMXauCSwm7Y735RQqR7IpsKnvrkksbqvD39FUapsHE3lt-2BRtI9TmBcVlFMQ4GG-2Foxy3fmMrn4p2A2mu92At5EhP8wsUYhk9Bu79lfj8ep4JrUN3uODR36YB4TTkIljCuIhaLdL2-2FHPH-2Bz6rqF960ZHmEooQoAaXreYK-2BY7u08qV49suzY9qqlZesKUMw-3D]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwTq4x5HkPwxRhpDWfk1b7nXvgvDhSC78LLls-2Bvqs1KQvHGZzlxUHjTKmlyywaw1SP-2FbueXCHXzM5OgFhexF2xFMxiLAhRSPm6GJrS8e0PCKvxlSV-2BsznEOpRZjGZGPEZiTDcWDY9r6SnPagR0vbAIgq6A7HSTXZvcyPUNcmK8BON_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eob5ModMXauCSwm7Y735RQqR7IpsKnvrkksbqvD39FUalSZbbCoR55y-2FJLbpFj6n2yuyCN4E8-2BWhwg92NuLWNbQjBDSVqpMees8Cr1CvMk7WTwLi90fd9UNs4YdbXTGmJrpXefjIcTwvtx40nUAV51wafy27if2wSgQ8I1UppupJcKTNwbJmkW3ZihgnObZQKM-3D]
+.

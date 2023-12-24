@@ -1,0 +1,35 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Two Sigma.
+
+A knight is placed on a given square on an 8 x 8 chessboard. It is then moved
+randomly several times, where each move is a standard knight move
+[https://en.wikipedia.org/wiki/Knight_(chess)#Movement]. If the knight jumps off
+the board at any point, however, it is not allowed to jump back on.
+
+After k moves, what is the probability that the knight remains on the board?
+
+
+--------------------------------------------------------------------------------
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem, including this one. Since you were
+referred by one of our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+Master algorithms together on Binary Search [https://binarysearch.io/?ref=dcp].
+Create a room, invite your friends, and race to finish the problem!
+
+
+--------------------------------------------------------------------------------
+
+No more? Snooze or unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

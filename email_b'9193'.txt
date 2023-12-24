@@ -1,0 +1,61 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Google.
+
+On our special chessboard, two bishops attack each other if they share the same
+diagonal. This includes bishops that have another bishop located between them,
+i.e. bishops can attack through pieces.
+
+You are given N bishops, represented as (row, column) tuples on a M by M
+chessboard. Write a function to count the number of pairs of bishops that attack
+each other. The ordering of the pair doesn't matter: (1, 2) is considered the
+same as (2, 1).
+
+For example, given M = 5 and the list of bishops:
+
+ * (0, 0)
+ * (1, 2)
+ * (2, 2)
+ * (4, 0)
+
+The board would look like this:
+
+[b 0 0 0 0]
+[0 0 b 0 0]
+[0 0 b 0 0]
+[0 0 0 0 0]
+[b 0 0 0 0]
+
+
+You should return 2, since bishops 1 and 3 attack each other, as well as bishops
+3 and 4.
+
+
+--------------------------------------------------------------------------------
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem, including this one. Since you were
+referred by one of our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+Practice makes perfect. Book a mock interview with a FAANG-level interviewer
+[https://www.tryexponent.com/coaching?ref=DCP&promo_code=DCPCOACH] today from
+our friends at Exponent (10% off!).
+
+System design interviews are becoming more popular in SWE interviews. Here's how
+to prepare.
+[https://www.tryexponent.com/courses/system-design-interview?ref=DCP&promo_code=DCP]
+
+
+--------------------------------------------------------------------------------
+
+No more? Snooze or unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

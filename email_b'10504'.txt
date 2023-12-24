@@ -1,0 +1,44 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Amazon.
+
+Consider the following scenario: there are N mice and N holes placed at integer
+points along a line. Given this, find a method that maps mice to holes such that
+the largest number of steps any mouse takes is minimized.
+
+Each move consists of moving one mouse one unit to the left or right, and only
+one mouse can fit inside each hole.
+
+For example, suppose the mice are positioned at [1, 4, 9, 15], and the holes are
+located at [10, -5, 0, 16]. In this case, the best pairing would require us to
+send the mouse at 1 to the hole at -5, so our function should return 6.
+
+
+--------------------------------------------------------------------------------
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem, including this one. Since you were
+referred by one of our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+Practice makes perfect. Book a mock interview with a FAANG-level interviewer
+[https://www.tryexponent.com/coaching?ref=DCP&promo_code=DCPCOACH] today from
+our friends at Exponent (10% off!).
+
+System design interviews are becoming more popular in SWE interviews. Here's how
+to prepare.
+[https://www.tryexponent.com/courses/system-design-interview?ref=DCP&promo_code=DCP]
+
+
+--------------------------------------------------------------------------------
+
+No more? Snooze or unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

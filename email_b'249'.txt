@@ -1,0 +1,27 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Google.
+
+Given a string, split it into as few strings as possible such that each string
+is a palindrome.
+
+For example, given the input string racecarannakayak, return ["racecar", "anna",
+"kayak"].
+
+Given the input string abc, return ["a", "b", "c"].
+
+Upgrade to premium
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2Bz6QcOxyCKetP6lYnXnpQimd4DRAN67bhWvrhW-2FuvSGAy09wyKpHDWd4WNOFKoO4Jc21UvlLyifNz1SjDpuvSr6RKofllcM59RJT5f9ekm0Q-3D-3D_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eqSbjjezG3OHcEApgb8Gj0SaZi0QxMvfTJ2EdlKUH8dWI8xcJcQRFuZSnrtEiWc5dv2FEkvXrgecxveDyuxWJu-2FncI-2FJ3fE7ERXRwR3Ms0YCoNzaSUXnbDYzpAf0XBK1LWXoEygpMiC7WNGxWHpQG-2B-2Ba9iUuaC0K-2B1iGYrzjcYHFntK-2F4J3lWVTPvafIH6fL2k-3D] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2BIpaIl6O7R00We7pC2-2FYno_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eqSbjjezG3OHcEApgb8Gj0SaZi0QxMvfTJ2EdlKUH8dWB8y6L0pf0fBtVjv6mTaBv-2BgCwqv7eefV8Z1rtErD9K4kYsLtHOoHFlVEk30CcfDWUVhwdxLpOzQrKV2gWKEv3Ew6zOcH6AlsOFnNj5VQb22fy8gxOrNfnqNSMzN2DRXPkSpiY-2FaBlhgbQZKgftasZk-3D]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwTq4x5HkPwxRhpDWfk1b7nXvgvDhSC78LLls-2Bvqs1KQvHGZzlxUHjTKmlyywaw1SP-2FbueXCHXzM5OgFhexF2xFMxiLAhRSPm6GJrS8e0PCKvxlSV-2BsznEOpRZjGZGPEZiTDcWDY9r6SnPagR0vbAIgq6A7HSTXZvcyPUNcmK8BON_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eqSbjjezG3OHcEApgb8Gj0SaZi0QxMvfTJ2EdlKUH8dWP8ak2SofzKJz5XBpb22enehiHamxHydVNtszODjHrQPxVipMJDCxbAqbOlLui9QpRhkvRV97ncGIsybL7xuL5HBP1eRxCV268Rr5hNvZwc2fhsw20ysD5Inq7jX-2B5-2B-2FFojWLfu-2BKUk9ntiDoEee-2BW4-3D]
+.

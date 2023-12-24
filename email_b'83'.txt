@@ -1,0 +1,31 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Amazon.
+
+Given a string s and an integer k, break up the string into multiple texts such
+that each text has a length of k or less. You must break it up so that words
+don't break across lines. If there's no way to break the text up, then return
+null.
+
+You can assume that there are no spaces at the ends of the string and that there
+is exactly one space between each word.
+
+For example, given the string "the quick brown fox jumps over the lazy dog" and
+k = 10, you should return: ["the quick", "brown fox", "jumps over", "the lazy",
+"dog"]. No string in the list has a length of more than 10.
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

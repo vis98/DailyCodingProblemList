@@ -1,0 +1,28 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Bloomberg.
+
+Determine whether there exists a one-to-one character mapping from one string s1 
+to another s2.
+
+For example, given s1 = abc and s2 = bcd, return true since we can map a to b, b 
+to c, and c to d.
+
+Given s1 = foo and s2 = bar, return false since the o cannot map to two
+characters.
+
+Upgrade to premium
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2Bz6QcOxyCKetP6lYnXnpQimd4DRAN67bhWvrhW-2FuvSGAy09wyKpHDWd4WNOFKoO4Jc21UvlLyifNz1SjDpuvSr6RKofllcM59RJT5f9ekm0Q-3D-3D_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5epuU6S9dWPVXgObwBHt9lSxhU0dwC6thYmEVQcLAkYPd7OZMZEWweFsltAnerGITKF-2BX9c-2FMp4DSArkUIHvI6mGRbsm-2BoXOkYREbIGpWuEnq5bN6TeJZbGsKhYm8CiR21mFxzMz4NIiWKAFVidfvvvcjDZkXjOA3d6YGIcjsCJVih25kp1OBA9TPY6gmv-2FrFI4-3D] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2BIpaIl6O7R00We7pC2-2FYno_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5epuU6S9dWPVXgObwBHt9lSxhU0dwC6thYmEVQcLAkYPd1L5nV1aZX-2B0x3SucQjF-2F6obVRCqPiS2HJ5dbDGhnn9Y7qI4WWo9scmxsah3QE4RjgtYopSA091piGpjJ6x5iuWbwly5HMBVqoPJFXhLhw2JAhKZK7h-2F8UoyGbo5fjZocQY1OXYncRCpXcKZKF-2F1NOU-3D]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwTq4x5HkPwxRhpDWfk1b7nXvgvDhSC78LLls-2Bvqs1KQvHGZzlxUHjTKmlyywaw1SP-2FbueXCHXzM5OgFhexF2xFMxiLAhRSPm6GJrS8e0PCKvxlSV-2BsznEOpRZjGZGPEZiTDcWDY9r6SnPagR0vbAIgq6A7HSTXZvcyPUNcmK8BON_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5epuU6S9dWPVXgObwBHt9lSxhU0dwC6thYmEVQcLAkYPd6NT599900HZRUb2XVkFPmjYbPCegInPqSiISfJVzZ5mNAgjfUszdWQ5a0LC5lwGUlXlMfiJxMbw5HE10wyeDiOX1JBhR9mVC7kT2cvjCNwDQZO3yhWWs1rZ5zHtZopx8mhH1dQU46f-2F-2FCrxcyAd9dc-3D]
+.

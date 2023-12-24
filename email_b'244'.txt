@@ -1,0 +1,31 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Two Sigma.
+
+Alice wants to join her school's Probability Student Club. Membership dues are
+computed via one of two simple probabilistic games.
+
+The first game: roll a die repeatedly. Stop rolling once you get a five followed
+by a six. Your number of rolls is the amount you pay, in dollars.
+
+The second game: same, except that the stopping condition is a five followed by
+a five.
+
+Which of the two games should Alice elect to play? Does it even matter? Write a
+program to simulate the two games and calculate their expected value.
+
+Upgrade to premium
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2Bz6QcOxyCKetP6lYnXnpQimd4DRAN67bhWvrhW-2FuvSGAy09wyKpHDWd4WNOFKoO4Jc21UvlLyifNz1SjDpuvSr6RKofllcM59RJT5f9ekm0Q-3D-3D_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eohdNMq-2F9g-2Bj9r2r3L8WDSXUp3UsszIJQJuX4yyo1XMunDy1ggSxvSpkLygApJVU5RsV7melqDgKO8XWHQviz49jYnAumuq-2BvIhZydV-2BnGDGp24en6UuuJifjZx2CvCaPl92CHdJ7MbQg4QV8x-2BZGjzuXZTNIzYRNUrlsDWhMn59jy4-2B3S7HbD3DnkxUDFJ078-3D] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwWErdzWeRmfVcT48gFYejU-2BIpaIl6O7R00We7pC2-2FYno_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eohdNMq-2F9g-2Bj9r2r3L8WDSXUp3UsszIJQJuX4yyo1XMunZaSOZs5VBkFKA9bGmMPMh0nZMz9-2Fwha8qfT1MbiDI7en080F9k9KWm1BLN2nJFnfRQXtYQ1zOpnM25VtzNZ6V0U6SHp3AJ7ygMGc1r8SNefw9K59-2FasptMuJe8ikBWG7yHD13W3IfuBDu1DVsYpXM-3D]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwTq4x5HkPwxRhpDWfk1b7nXvgvDhSC78LLls-2Bvqs1KQvHGZzlxUHjTKmlyywaw1SP-2FbueXCHXzM5OgFhexF2xFMxiLAhRSPm6GJrS8e0PCKvxlSV-2BsznEOpRZjGZGPEZiTDcWDY9r6SnPagR0vbAIgq6A7HSTXZvcyPUNcmK8BON_npyTVFwTp-2F6mwo7oyfL2ZRiXnSOIjuExibs-2FWskQ5eohdNMq-2F9g-2Bj9r2r3L8WDSXUp3UsszIJQJuX4yyo1XMuiRQewTpL3Ai8PJW48riX0x3G0VNLsWNgEG9pfjODtq6pAj-2FHOoFcKCVkmLSkwjx-2FgATlklv-2FZFWhfujhKaEPejQ2OmPXpU4mD1-2BcM23Bal8dUEKpXUjbEauM0W472gg-2Bch6uMB9kiU6mjLEn9VYuwI-3D]
+.

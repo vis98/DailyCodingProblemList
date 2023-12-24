@@ -1,0 +1,37 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Microsoft.
+
+Compute the running median of a sequence of numbers. That is, given a stream of
+numbers, print out the median of the list so far on each new element.
+
+Recall that the median of an even-numbered list is the average of the two middle
+numbers.
+
+For example, given the sequence [2, 1, 5, 7, 2, 0, 5], your algorithm should
+print out:
+
+2
+1.5
+2
+3.5
+2
+2
+2
+
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.

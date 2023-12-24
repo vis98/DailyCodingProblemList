@@ -1,0 +1,41 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Facebook.
+
+Given a number in Roman numeral [https://en.wikipedia.org/wiki/Roman_numerals] 
+format, convert it to decimal.
+
+The values of Roman numerals are as follows:
+
+{
+    'M': 1000,
+    'D': 500,
+    'C': 100,
+    'L': 50,
+    'X': 10,
+    'V': 5,
+    'I': 1
+}
+
+
+In addition, note that the Roman numeral system uses subtractive notation
+[https://en.wikipedia.org/wiki/Subtractive_notation] for numbers such as IV and 
+XL.
+
+For the input XIV, for instance, you should return 14.
+
+Upgrade to premium
+[https://www.dailycodingproblem.com/subscribe?email=mishravishal958%40gmail.com&ref=csdojo] 
+and get in-depth solutions to every problem. Since you were referred by one of
+our affiliates, you'll get a 10% discount on checkout!
+
+If you liked this problem, feel free to forward it along so they can subscribe
+here [https://www.dailycodingproblem.com/]! As always, shoot us an email if
+there's anything we can help with!
+
+
+--------------------------------------------------------------------------------
+
+No more? Unsubscribe
+[https://dailycodingproblem.com/unsubscribe?unsubscribeKey=c5ae6a38585c7eaa09f0d49f11f3d7c2f718630c5141670a65cddcd4a35cc0a5e9a43881]
+.
